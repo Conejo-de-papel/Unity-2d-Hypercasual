@@ -1,1 +1,1 @@
-# Unity-2d-platformer-Penguin-Jump
+# Unity-2d-Hypercasual
